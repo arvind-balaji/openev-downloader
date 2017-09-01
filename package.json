@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "osmosis": "^1.1.4",
+    "osmosis": "^1.1.4"
   }
 }
