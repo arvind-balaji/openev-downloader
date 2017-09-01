@@ -1,0 +1,4 @@
+/node_modules
+/Download
+npm-debug.log*
+.DS_Store
